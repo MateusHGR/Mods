@@ -1,2 +1,2 @@
-# Repositorio-de-Mods
+# Mods
 Repositório Pessoal de Modificações para Jogos
